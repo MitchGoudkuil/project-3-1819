@@ -1,3 +1,3 @@
 # Lifely README
 
-[Onderzoek Kandidaatvinden](./onderzoek.md)
+[Onderzoek Kandidaatvinden](./Onderzoek.md)
