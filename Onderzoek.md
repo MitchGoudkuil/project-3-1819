@@ -6,4 +6,21 @@
 
 ![Afbeelding van de manier waarop Kandidaatvinden werkt.](./img/goings.png)
 
-Aangezien Kandidaatvinden werkt met persoons gerelateerde data wordt de chat geinitialiseerd nadat er een authorisation token verstuurd wordt. De chat word hierna geëncrypt voor beveiliging.
+Aangezien Kandidaatvinden werkt met persoons gerelateerde data wordt de chat geinitialiseerd nadat er een authorisatie token verstuurd wordt. De chat word hierna geëncrypt voor beveiliging.
+
+### Techniek
+
+Frontend: React (Typescript)
+Tracker: iframe en React
+Backend: NodeJS (Typescript)
+Database: PostgreSQLAPI: GraphQL + subscriptions
+Ops: docker container, jenkins
+
+Opbouw live chat
+me data (eigen data wordt opgestuurd)
+getchats
+getcurrentchat
+getmessages
+getjobs
+getcompany's
+getmessages
